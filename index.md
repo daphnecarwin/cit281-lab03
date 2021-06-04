@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Lab 03
+Purpose of the Lab:
 
-You can use the [editor on GitHub](https://github.com/daphnecarwin/cit281-lab03/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Practice refactoring JavaScript code to use more modern syntax
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Practice destructuring an object
 
-### Markdown
+Practice converting normal functions into arrow function expressions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Examine using for..in  syntax with objects
 
-```markdown
-Syntax highlighted code block
+Practice using for..of syntax with arrays
 
-# Header 1
-## Header 2
-### Header 3
+Practice creating a Node.js compatible code module using module.exports
 
-- Bulleted
-- List
+Practice importing a Node.js compatible code module using require
 
-1. Numbered
-2. List
+Examine code using the spread operator
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+Technologies Used for the Lab:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Node.js, terminal, VScode
 
-### Jekyll Themes
+What I Learned From the Lab:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daphnecarwin/cit281-lab03/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+From this lab I learned how to do the basics of Visual Studio Code, and practiced javascript functions and strings.
